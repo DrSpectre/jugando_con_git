@@ -1,1 +1,9 @@
-Hola mundo
+git status // para leer el estado del git y que archivos han sufrido cambios
+
+git add <nombre> // para agregar archivos de forma manual
+
+git commit -m "<mensaje>" // para indicar que los cambios sonb buenos y queremos subirlos
+
+git push // para enviar los cambios al servidor
+
+
